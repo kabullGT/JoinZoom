@@ -1,0 +1,4 @@
+C:\Users\Kabull\source\repos\JoinZoom\obj\Debug\JoinZoom.ZoomLay.resources
+C:\Users\Kabull\source\repos\JoinZoom\obj\Debug\JoinZoom.Properties.Resources.resources
+C:\Users\Kabull\source\repos\JoinZoom\obj\Debug\JoinZoom.csproj.GenerateResource.cache
+C:\Users\Kabull\source\repos\JoinZoom\obj\Debug\JoinZoom.csproj.CoreCompileInputs.cache

@@ -1,0 +1,27 @@
+Instructions:
+First follow the instructions to register the app on Zoom Marketplace.
+	-> https://marketplace.zoom.us/docs/sdk/native-sdks/windows/overview
+Get Code and PWD and generate JWT
+	-> https://devforum.zoom.us/t/auth-sdk-failed-when-running-zoom-sdk-demo/37448/7
+
+JWT to Config file.
+
+You don´t need to download or configure anything, the SW does that.
+
+Run Parameters eg: c:/JoinZoom MeetingID Password UserName
+
+DEV Intel:
+SDK for C#: zoom_sdk_c_sharp_wrap
+	->This project builds a DLL on the root/Release folder of the JoinZoom project )
+	
+Library: duilib
+	-> Into Project root.
+
+bin Folder (DLL´s, from win SDK) 
+	-> Into /bin/Release (Output .exe folder)
+	
+h Folder (Headers, from win SDK)
+	-> Into zoom_sdk_c_sharp_wrap folder
+
+
+
